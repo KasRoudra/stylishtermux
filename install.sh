@@ -1,3 +1,5 @@
+#!/data/data/com.termux/files/usr/bin/bash
+
 black='\033[0;30m'
 red='\033[0;31m'
 green='\033[0;32m'
